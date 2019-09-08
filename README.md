@@ -27,5 +27,5 @@ npm install
 npm run serve
 ```
 
-如果被墙的话，就把npm改成cnpm
+
 
